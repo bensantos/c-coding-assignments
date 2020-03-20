@@ -40,7 +40,7 @@
  ********************************************************/
 team_t team = {
     /* Team name */
-    "The Lone Cowboy of Ram Ranch",
+    "Me, Myself, and I",
     /* First member's full name */
     "Ben Santos",
     /* First member's email address */
