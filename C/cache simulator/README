@@ -1,4 +1,4 @@
-A small C program (about 200-300 lines) that simulates the behavior of a cache memory. The program takes a valgrind memory trace
-as input, simulates the hit/miss behavior of a cache memory on this trace, and outputs the total number of hits, misses, and evictions.
+A small C program that simulates the behavior of a cache memory. The program takes a valgrind memory trace as input, 
+simulates the hit/miss behavior of a cache memory on this trace, and outputs the total number of hits, misses, and evictions.
 
 The photo attached shows that the simulator works for any set index size (s), associativity (E), and block offset size (b).
