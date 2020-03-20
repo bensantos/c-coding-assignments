@@ -22,6 +22,8 @@
  *
  * The allocated prologue and epilogue blocks are overhead that
  * eliminate edge conditions during coalescing.
+ * 
+ * These implementations are naive but functioning. More time could be spent optimizing efficiency and speed.
  */
 
 #include <stdio.h>
