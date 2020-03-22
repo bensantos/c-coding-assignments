@@ -4,3 +4,5 @@ that quickly return biological information about Zebra Mussel genes.
 Gene.py was code I wrote that took user input and returned information regarding a gene of interest.
 The file containing the genome was very large, so I did my best to make sure splicing of the file was 
 as efficient as possible. 
+
+The project also introduced me to handling file formats that are relevant to the field, which was cool!
