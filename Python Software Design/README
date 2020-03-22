@@ -7,5 +7,3 @@ It's hard to understand the code without seeing the full picture, a general idea
 -the SQL datatable has over 300,000 unique entries
 -our site customizes SQL queries based on user inputs
 -the code was written over a period of 6 weeks (including CSS and HTML)
-
-
