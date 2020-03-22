@@ -1,6 +1,6 @@
 The backend for a website I helped write during the Fall of 2019 for my Software Design course.
 webapp.py uses Flask to render HTML files (not included in this repository) and to run
-the proper SQL queries in datasource.py.
+the proper SQL queries defined in datasource.py.
 datasource.py conencts to the database and queries the SQL database.
 
 It's hard to understand the code without seeing the full picture, a general idea:
